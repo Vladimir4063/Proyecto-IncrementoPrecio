@@ -18,7 +18,7 @@ def Mostrar():
 
 ventana = tk.Tk()
 ventana.title("CheekButton")
-ventana.geometry("200x200")
+ventana.geometry("300x100")
 
 
 #Variables
